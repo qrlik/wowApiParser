@@ -1,0 +1,38 @@
+{
+    "herbs": {
+        "169701": "Death Blossom",
+        "168586": "Rising Glory",
+        "168589": "Marrowroot",
+        "168583": "Widowbloom",
+        "170554": "Vigil's Torch",
+        "171315": "Nightshade"
+    },
+    "potions": {
+        "171286": "Embalmer's Oil",
+        "171351": "Potion of Deathly Fixation",
+        "171350": "Potion of Divine Awakening",
+        "171352": "Potion of Empowered Exorcisms",
+        "171271": "Potion of Hardened Shadows",
+        "171266": "Potion of the Hidden Spirit",
+        "171349": "Potion of Phantom Fire",
+        "176811": "Potion of Sacrificial Anima",
+        "171264": "Potion of Shaded Sight",
+        "171263": "Potion of Soul Purity",
+        "171370": "Potion of Specter Swiftness",
+        "171270": "Potion of Spectral Agility",
+        "171273": "Potion of Spectral Intellect",
+        "171274": "Potion of Spectral Stamina",
+        "171275": "Potion of Spectral Strength",
+        "171272": "Potion of Spiritual Clarity",
+        "184090": "Potion of the Psychopomp's Speed",
+        "183823": "Potion of Unhindered Passing",
+        "171285": "Shadowcore Oil",
+        "171276": "Spectral Flask of Power",
+        "171278": "Spectral Flask of Stamina",
+        "171301": "Spiritual Anti-Venom",
+        "171267": "Spiritual Healing Potion",
+        "171268": "Spiritual Mana Potion",
+        "171269": "Spiritual Rejuvenation Potion",
+        "666666": "Test Hyuni"
+    }
+}

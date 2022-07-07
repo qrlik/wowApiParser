@@ -1,0 +1,72 @@
+{
+  "item_classes": [
+    {
+      "name": "Consumable",
+      "id": 0
+    },
+    {
+      "name": "Container",
+      "id": 1
+    },
+    {
+      "name": "Weapon",
+      "id": 2
+    },
+    {
+      "name": "Gem",
+      "id": 3
+    },
+    {
+      "name": "Armor",
+      "id": 4
+    },
+    {
+      "name": "Reagent",
+      "id": 5
+    },
+    {
+      "name": "Projectile",
+      "id": 6
+    },
+    {
+      "name": "Tradeskill",
+      "id": 7
+    },
+    {
+      "name": "Item Enhancement",
+      "id": 8
+    },
+    {
+      "name": "Recipe",
+      "id": 9
+    },
+    {
+      "name": "Quiver",
+      "id": 11
+    },
+    {
+      "name": "Quest",
+      "id": 12
+    },
+    {
+      "name": "Key",
+      "id": 13
+    },
+    {
+      "name": "Miscellaneous",
+      "id": 15
+    },
+    {
+      "name": "Glyph",
+      "id": 16
+    },
+    {
+      "name": "Battle Pets",
+      "id": 17
+    },
+    {
+      "name": "WoW Token",
+      "id": 18
+    }
+  ]
+}

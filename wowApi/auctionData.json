@@ -1,0 +1,38 @@
+{
+    "herbs": {
+        "Death Blossom": 7.39,
+        "Marrowroot": 28.99,
+        "Nightshade": 21.41,
+        "Rising Glory": 42.16,
+        "Vigil's Torch": 45.99,
+        "Widowbloom": 39.22
+    },
+    "potions": {
+        "Embalmer's Oil": 34.49,
+        "Potion of Deathly Fixation": 179.96,
+        "Potion of Divine Awakening": 55.95,
+        "Potion of Empowered Exorcisms": 89.97,
+        "Potion of Hardened Shadows": 10.0,
+        "Potion of Phantom Fire": 484.97,
+        "Potion of Sacrificial Anima": 15.0,
+        "Potion of Shaded Sight": 0.44,
+        "Potion of Soul Purity": 75.0,
+        "Potion of Specter Swiftness": 0.5,
+        "Potion of Spectral Agility": 324.92,
+        "Potion of Spectral Intellect": 236.99,
+        "Potion of Spectral Stamina": 30.97,
+        "Potion of Spectral Strength": 280.91,
+        "Potion of Spiritual Clarity": 109.01,
+        "Potion of Unhindered Passing": 2.89,
+        "Potion of the Hidden Spirit": 209.99,
+        "Potion of the Psychopomp's Speed": 99.0,
+        "Shadowcore Oil": 22.42,
+        "Spectral Flask of Power": 698.0,
+        "Spectral Flask of Stamina": 275.0,
+        "Spiritual Anti-Venom": 20.0,
+        "Spiritual Healing Potion": 26.43,
+        "Spiritual Mana Potion": 30.0,
+        "Spiritual Rejuvenation Potion": 20.23,
+        "Test Hyuni": null
+    }
+}
